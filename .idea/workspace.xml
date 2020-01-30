@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2e75bb8a-9565-44cc-ac93-16a6c974ea89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beersong.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cap01/beersong.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cap01/helloworld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cap01/odd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/odd2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cap01/odd2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
