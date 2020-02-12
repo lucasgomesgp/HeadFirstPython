@@ -12,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -27,6 +28,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -34,11 +36,35 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Cap05" />
+      <recent name="$PROJECT_DIR$/Cap05/webapp/templates" />
+      <recent name="$PROJECT_DIR$/Cap05/webapp" />
       <recent name="$PROJECT_DIR$/mymodules" />
       <recent name="$PROJECT_DIR$/Cap01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.vsearch">
+  <component name="RunManager" selected="Python.dunder">
+    <configuration name="dunder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Livro Use a Cabeça" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap05/dunder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="vowels10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Livro Use a Cabeça" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,27 +78,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap03/vowels10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="vowels7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Livro Use a Cabeça" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cap03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cap03/vowels7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dunder" />
         <item itemvalue="Python.vsearch" />
         <item itemvalue="Python.vowels10" />
         <item itemvalue="Python.vowels9" />
         <item itemvalue="Python.vowels8" />
-        <item itemvalue="Python.vowels7" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +184,9 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="442" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580359628643">
       <screen x="53" y="27" width="1313" height="741" />
@@ -189,25 +197,25 @@
     </state>
     <state x="457" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580405420926" />
     <state x="492" y="154" width="424" height="484" key="FileChooserDialogImpl/53.27.1313.741@53.27.1313.741" timestamp="1580354627797" />
-    <state width="1343" height="137" key="GridCell.Tab.0.bottom" timestamp="1581232530054">
+    <state width="1343" height="137" key="GridCell.Tab.0.bottom" timestamp="1581531021554">
       <screen x="0" y="27" width="1366" height="696" />
     </state>
-    <state width="1343" height="137" key="GridCell.Tab.0.bottom/0.27.1366.696@0.27.1366.696" timestamp="1581232530054" />
+    <state width="1343" height="137" key="GridCell.Tab.0.bottom/0.27.1366.696@0.27.1366.696" timestamp="1581531021554" />
     <state width="1290" height="150" key="GridCell.Tab.0.bottom/53.27.1313.741@53.27.1313.741" timestamp="1580358262161" />
-    <state width="1343" height="137" key="GridCell.Tab.0.center" timestamp="1581232530053">
+    <state width="1343" height="137" key="GridCell.Tab.0.center" timestamp="1581531021552">
       <screen x="0" y="27" width="1366" height="696" />
     </state>
-    <state width="1343" height="137" key="GridCell.Tab.0.center/0.27.1366.696@0.27.1366.696" timestamp="1581232530053" />
+    <state width="1343" height="137" key="GridCell.Tab.0.center/0.27.1366.696@0.27.1366.696" timestamp="1581531021552" />
     <state width="1290" height="150" key="GridCell.Tab.0.center/53.27.1313.741@53.27.1313.741" timestamp="1580358262158" />
-    <state width="1343" height="137" key="GridCell.Tab.0.left" timestamp="1581232530053">
+    <state width="1343" height="137" key="GridCell.Tab.0.left" timestamp="1581531021551">
       <screen x="0" y="27" width="1366" height="696" />
     </state>
-    <state width="1343" height="137" key="GridCell.Tab.0.left/0.27.1366.696@0.27.1366.696" timestamp="1581232530053" />
+    <state width="1343" height="137" key="GridCell.Tab.0.left/0.27.1366.696@0.27.1366.696" timestamp="1581531021551" />
     <state width="1290" height="150" key="GridCell.Tab.0.left/53.27.1313.741@53.27.1313.741" timestamp="1580358262156" />
-    <state width="1343" height="137" key="GridCell.Tab.0.right" timestamp="1581232530053">
+    <state width="1343" height="137" key="GridCell.Tab.0.right" timestamp="1581531021553">
       <screen x="0" y="27" width="1366" height="696" />
     </state>
-    <state width="1343" height="137" key="GridCell.Tab.0.right/0.27.1366.696@0.27.1366.696" timestamp="1581232530053" />
+    <state width="1343" height="137" key="GridCell.Tab.0.right/0.27.1366.696@0.27.1366.696" timestamp="1581531021553" />
     <state width="1290" height="150" key="GridCell.Tab.0.right/53.27.1313.741@53.27.1313.741" timestamp="1580358262160" />
     <state x="273" y="27" width="1012" height="696" key="SettingsEditor" timestamp="1581046236115">
       <screen x="0" y="27" width="1366" height="696" />
